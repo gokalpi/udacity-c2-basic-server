@@ -1,4 +1,4 @@
-# udacity-c2-basic-server
+# udacity-c2-basic-server 2
 
 This is a simple node-express server to explore and understand the Request-Response pattern.
 
